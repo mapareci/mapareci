@@ -4,11 +4,7 @@ Sou um ex-aluno da **42** (Campus São Paulo), onde fiz o curso de programação
 Divirta-se explorando meu portfólio e sinta-se à vontade para conectar e conversar comigo!
 
 ## 🤝🏽 Minhas Contribuições no GitHub
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mapareci/mapareci/main/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mapareci/mapareci/main/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mapareci/mapareci/main/output/github-snake.svg" />
-</picture>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mapareci&theme=radical&hide_border=true)
 
 ## MEUS CURSOS
 [![PMF](Programando_Meu_Futuro_2024.png)](https://github.com/mapareci/Programando_Meu_Futuro_2024)
@@ -50,5 +46,6 @@ Divirta-se explorando meu portfólio e sinta-se à vontade para conectar e conve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianacost4/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1226967137533558977)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianastudy74.contact@gmail.com)
+
 
 
