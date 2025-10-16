@@ -1,62 +1,52 @@
-# Salutations from Brasil!!! (Yes, with an S 🤭)
-## 🙋🏽‍♂️ ABOUT ME (a short intro)
-### My name is Vinicius, but you may call me Vinny.
-I'm a former student at 42 (São Paulo Campus), where I took the 42.Zip programming course. I'm also diving deep into Python programming. Around here, you’ll see some projects I've done as part of the courses I've taken and others just for fun...😊
-Enjoy exploring my portfolio and feel free to connect and chat with me!
+## 🙋‍♀️ SOBRE MIM (uma breve introdução)
+### Meu nome é Mariana, mas você pode me chamar de Mari.
+Sou um ex-aluno da **42** (Campus São Paulo), onde fiz o curso de programação **42.Zip**. Também estou aprofundando meus conhecimentos em **Análise e Desenvolvimento de Sistemas**. Por aqui, você verá alguns projetos que fiz como parte dos cursos que participei e outros apenas por diversão...😊
+Divirta-se explorando meu portfólio e sinta-se à vontade para conectar e conversar comigo!
 
-## 🤝🏽 My GitHub Contributions
+## 🤝🏽 Minhas Contribuições no GitHub
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vgomes-p/vgomes-p/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mapareci/mapareci/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mapareci/mapareci/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mapareci/mapareci/github-snake.svg" />
 </picture>
 
-## 🏆 My GitHub Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=vgomes-p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## MEUS CURSOS
+[![PMF](Programando_Meu_Futuro_2024.png)](https://github.com/mapareci/Programando_Meu_Futuro_2024)
+[![SB2025](Santander_Bootcamp_2025.png)](https://github.com/mapareci/Santander_Bootcamp_2025)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=vgomes-p&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes-p&layout=compact&theme=merko)
+## 👀 ME CONHEÇA MELHOR!
 
-## MY COURSES
-[![PMF](src/course2024/Programando_Meu_Futuro_2024.png)](https://github.com/vgomes-p/Programando_Meu_Futuro_2024)
-[![SB2025](src/course2025/Santander_Bootcamp_2025.png)](https://github.com/vgomes-p/Santander_Bootcamp_2025)
-
-## MY PERSONAL PROJECTS
-[![Python](src/languages/Python.png)](https://github.com/vgomes-p/python_independent_project)
-<!-- [![React-Native](src/languages/react-native.png)](https://github.com/vgomes-p/react-native_independent_projects) -->
-
-## 👀 GET TO KNOW ME BETTER!
-### These are the languages and frameworks I've been learning and working with
-#### ranked from most proficient to least
+### Estas são as linguagens e frameworks com as quais tenho aprendido e trabalhado
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Native-React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-### I'm used to these IDE & OS 
+
+### Estou habituado a usar estas IDEs e Sistemas Operacionais
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-### and on a daily bases, I use
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge)
+
+
+### E no dia a dia, eu uso
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-### GWS platforms I'm comfortable working with
-![Google AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
+### Plataformas GWS com as quais me sinto confortável em trabalhar
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Collab Studio](https://img.shields.io/badge/Collab_Studio-563d7c?style=for-the-badge&logo=teamwork&logoColor=white)
 
-
-
-## 🛸 WAYS TO CONTACT ME!
-### If you're interested, you can hit me up through LinkedIn, Gmail or Discord (links below)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinied-gpereira/)
+## 🛸 FORMAS DE ME CONTACTAR!
+### Se tiver interesse, você pode me procurar pelo LinkedIn, Gmail ou Discord (links abaixo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianacost4/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1226967137533558977)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinied.contact@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianastudy74.contact@gmail.com)
